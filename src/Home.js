@@ -15,39 +15,46 @@ function Home() {
         <div className="home__row">
           <Product
             id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={450}
+            title="Summer Dresses for Women Beach Floral Tshirt Sundress Sleeveless Pockets Casual Loose Tank Dress"
+            price={2839}
             rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+            image="https://m.media-amazon.com/images/I/81SoFQNZ90L._AC_UY741_.jpg"
           />
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-            price={239.0}
+            title="TOZO T6 True Wireless Earbuds Bluetooth Headphones Touch Control with Wireless Charging Case"
+            price={3999}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://m.media-amazon.com/images/I/71Z09LgdOPL._AC_SX466_.jpg"
+          />
+          <Product
+            id="49536094"
+            title="The Recovery Agent: A Novel (Gabriela Rose Book 1)"
+            price={239}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/51BqAvlC4nL.jpg"
           />
         </div>
 
         <div className="home__row">
           <Product
             id="4903850"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-            price={199.99}
+            title="Cliganic 10 Pack Mosquito Repellent Bracelets, DEET-Free Waterproof Bands"
+            price={199}
             rating={3}
-            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/81C2TGpctLL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
           />
           <Product
             id="23445930"
             title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
-            price={98.99}
+            price={5099}
             rating={5}
             image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
           />
           <Product
             id="3254354345"
             title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-            price={598.99}
+            price={11999}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
@@ -56,10 +63,24 @@ function Home() {
         <div className="home__row">
           <Product
             id="90829332"
+            title="Lash Princess False Lash Effect Mascara | Gluten & Cruelty Free"
+            price={249}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/61K6cQhw4EL._AC_SX466_.jpg"
+          />
+          <Product
+            id="90829332"
             title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
-            price={1094.98}
+            price={50999}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
+          />
+          <Product
+            id="90829332"
+            title="iGENJUN Women's Long Sleeve Button Down Tunic Dresses with Pockets"
+            price={1094}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/615LbO3-33L._AC_UY741_.jpg"
           />
         </div>
       </div>
