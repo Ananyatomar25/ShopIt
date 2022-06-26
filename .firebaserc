@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "challenge-4b2b2"
-  }
+    "default": "challenge-4b2b2",
+    "staging": "clone-c4321"
+  },
+  "targets": {}
 }
