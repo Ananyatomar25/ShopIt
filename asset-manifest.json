@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShopIt/static/css/main.0c8489f7.chunk.css",
-    "main.js": "/ShopIt/static/js/main.f17886b3.chunk.js",
-    "main.js.map": "/ShopIt/static/js/main.f17886b3.chunk.js.map",
+    "main.js": "/ShopIt/static/js/main.714c11ab.chunk.js",
+    "main.js.map": "/ShopIt/static/js/main.714c11ab.chunk.js.map",
     "runtime-main.js": "/ShopIt/static/js/runtime-main.66ce1e2c.js",
     "runtime-main.js.map": "/ShopIt/static/js/runtime-main.66ce1e2c.js.map",
     "static/js/2.4ba8082c.chunk.js": "/ShopIt/static/js/2.4ba8082c.chunk.js",
     "static/js/2.4ba8082c.chunk.js.map": "/ShopIt/static/js/2.4ba8082c.chunk.js.map",
     "index.html": "/ShopIt/index.html",
-    "precache-manifest.1da8b80eb79e516fd960fb7241c49f53.js": "/ShopIt/precache-manifest.1da8b80eb79e516fd960fb7241c49f53.js",
+    "precache-manifest.cab2735da06075228ba98fcb07b54ede.js": "/ShopIt/precache-manifest.cab2735da06075228ba98fcb07b54ede.js",
     "service-worker.js": "/ShopIt/service-worker.js",
     "static/css/main.0c8489f7.chunk.css.map": "/ShopIt/static/css/main.0c8489f7.chunk.css.map",
     "static/js/2.4ba8082c.chunk.js.LICENSE.txt": "/ShopIt/static/js/2.4ba8082c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.66ce1e2c.js",
     "static/js/2.4ba8082c.chunk.js",
     "static/css/main.0c8489f7.chunk.css",
-    "static/js/main.f17886b3.chunk.js"
+    "static/js/main.714c11ab.chunk.js"
   ]
 }
